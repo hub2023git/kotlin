@@ -1,9 +1,13 @@
 # kotlin
 
 Thie repository consist of kotlin samples for concepts understanding 
+<Details>
+  <Summary>Below topics are covered.</Summary>
 
-Below topics are covered.
-
+- [ ] Basics Of Kotlin:-
+- [ ] OOPs:- 
+- [ ] Playing with List:-
+</Details>
 <Details>
 <Summary>Helpful links to Learn kotlin</Summary>
   
