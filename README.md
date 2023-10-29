@@ -23,7 +23,7 @@ Thie repository consist of kotlin samples for concepts understanding
   
   6. [Kotlin Tips](https://kotlinlang.org/docs/kotlin-tips.html):- Explicitly added some tips by jetbrain kotlin team to help you code in Kotlin in a more efficient and idiomatic way. You can watch it on youtube [here](https://www.youtube.com/channel/UCP7uiEZIqci43m22KDl0sNw).
   
-  7. [Kotlin Books](https://kotlinlang.org/docs/books.html):- List of books provided by kotlin team which you can read to master yourself, I am not a book worm but more so can't recommend currently but if you wish please give a look and do let me know your experience with it.
+  7. [Kotlin Books](https://kotlinlang.org/docs/books.html):- List of books provided by kotlin team which you can read to master yourself, I am not a book worm, so can't recommend currently but if you wish please give a look and do let me know your experience with it.
   
   8. [Advent of Code Puzzle](https://kotlinlang.org/docs/advent-of-code.html):- Nice small puzzle which you can try as a beginner after compleetion on list related operations. As of today it seems they did have it for 2022 not sure if they will have for 2023.
   
