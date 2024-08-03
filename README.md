@@ -5,9 +5,9 @@ Thie repository consist of kotlin samples for concepts understanding
   <Summary>Below topics are covered.</Summary>
 
 - [ ] [IntellIj Setup and Kotlin Plugin Installation Video](https://youtu.be/Z4zqShyciIw)
-- [ ] - [ ] Basics Of Kotlin:-
-- [ ] - [ ] - [ ] OOPs:-
-- [ ] - [ ] Playing with List:-
+- [ ] Basics Of Kotlin:-
+- [ ] OOPs:-
+- [ ] Playing with List:-
 </Details>
 <Details>
 <Summary>Helpful links to Learn kotlin</Summary>
