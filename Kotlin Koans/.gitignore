@@ -1,0 +1,17 @@
+.gradle
+.idea
+.idea/libraries
+.idea/modules
+build
+course*
+*.md*
+*task-*
+*Test*
+build.gradle
+*kt.wb*
+gradlew
+*.properties
+*.bat
+*-info.yaml
+*.txt
+*.gradle
